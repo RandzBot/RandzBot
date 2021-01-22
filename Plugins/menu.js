@@ -33,7 +33,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
 🤖 [NFQ BOT] 🤖
-Created Bye: @Drawl Nag
+Created Bye: @Rama_Officials
 
 Hi, ${name} 👋
 Exp: ${exp}

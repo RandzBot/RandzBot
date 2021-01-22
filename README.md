@@ -1,16 +1,36 @@
-### Hi there 👋
+# NfQ-BoT
+Simple WhatsApp Bot
 
-<!--
-**RandzBot/RandzBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FOR TERMUX USER
+```bash
+> pkg update && pkg upgrade
+> pkg install git
+> pkg install nodejs
+> pkg install ffmpeg
+> pkg install imagemagick
+> git clone https://github.com/Arya274/Arya-Bot
+> cd Arya-Bot
+> npm install
+```
+###### Run
+```bash
+> node . [<session name>] (session name is optional)
+```
 
-Here are some ideas to get you started:
+---------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FOR WINDOWS/VPS/RDP USER
+```bash
+> git clone https://github.com/Arya274/Arya-Bot
+> cd Arya-Bot
+> npm install
+```
+###### Run
+```bash
+> node index.js
+```
+ SOSMED:
+ 
+ Instagram: @arpunchs
+ 
+ Youtube: Drawl Nag
